@@ -1,5 +1,11 @@
 # @changesets/cli
 
+## 2.21.1
+
+### Patch Changes
+
+- [#760](https://github.com/changesets/changesets/pull/760) [`5a2a59a`](https://github.com/changesets/changesets/commit/5a2a59a37b7fb31e17414579b470402d3016e28e) Thanks [@Andarist](https://github.com/Andarist)! - Fixed an issue with logging non-stringified Buffers in case of publish errors.
+
 ## 2.21.0
 
 ### Minor Changes
